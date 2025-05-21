@@ -17,9 +17,9 @@ Merlin Fashion doesn't include anything related to database, it is just a HTML, 
     And that's how it looks🤩
  </p>
  <p align="center">
- <img src="![image](https://github.com/user-attachments/assets/49219fdc-1d43-48a0-b89d-467de05c5f4a)
-/">
+ <img src="https://user-images.githubusercontent.com/47295558/76738138-11372680-6790-11ea-82c6-c27a9c2b7b68.gif">
   </p>
  <p align="center">
  Saw all the other pages?🧐 Go check it out now!🥳 
-(https://682df077cd7d6d4817a5e697--incredible-beijinho-c7c549.netlify.app/
+   https://682deffe350b0d45a64b5f9a--willowy-custard-91998f.netlify.app/
+</p>
